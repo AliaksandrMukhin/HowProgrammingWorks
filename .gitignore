@@ -1,0 +1,13 @@
+.serverless/
+.idea/
+.vscode
+node_modules/
+# Need to add .aws-sam dir for this issue https://github.com/awslabs/aws-sam-cli/issues/1469
+.aws-sam/*
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+.env
