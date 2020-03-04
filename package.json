@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AliaksandrMukhin/HowProgrammingWorks/issues"
   },
-  "homepage": "https://github.com/AliaksandrMukhin/HowProgrammingWorks#readme"
+  "homepage": "https://github.com/AliaksandrMukhin/HowProgrammingWorks#readme",
+  "dependencies": {
+    "log-update": "^4.0.0"
+  }
 }
