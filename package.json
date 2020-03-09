@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AliaksandrMukhin/HowProgrammingWorks#readme",
   "dependencies": {
+    "lodash": "^4.17.15",
     "log-update": "^4.0.0"
   }
 }
